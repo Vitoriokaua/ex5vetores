@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex5vetores", "ex5vetores.vcxproj", "{A202B4C8-9129-4DA9-9EC4-095A2D958DB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A202B4C8-9129-4DA9-9EC4-095A2D958DB6}.Debug|x64.ActiveCfg = Debug|x64
+		{A202B4C8-9129-4DA9-9EC4-095A2D958DB6}.Debug|x64.Build.0 = Debug|x64
+		{A202B4C8-9129-4DA9-9EC4-095A2D958DB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{A202B4C8-9129-4DA9-9EC4-095A2D958DB6}.Debug|x86.Build.0 = Debug|Win32
+		{A202B4C8-9129-4DA9-9EC4-095A2D958DB6}.Release|x64.ActiveCfg = Release|x64
+		{A202B4C8-9129-4DA9-9EC4-095A2D958DB6}.Release|x64.Build.0 = Release|x64
+		{A202B4C8-9129-4DA9-9EC4-095A2D958DB6}.Release|x86.ActiveCfg = Release|Win32
+		{A202B4C8-9129-4DA9-9EC4-095A2D958DB6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB26F471-0660-45CE-97F4-A7BB47D61EEA}
+	EndGlobalSection
+EndGlobal
